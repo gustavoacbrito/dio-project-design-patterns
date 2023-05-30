@@ -22,8 +22,6 @@ dependencies {
 	implementation 'org.springframework.cloud:spring-cloud-starter-openfeign'
 	runtimeOnly 'com.h2database:h2'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-	// https://mvnrepository.com/artifact/javax.persistence/javax.persistence-api
-	implementation group: 'javax.persistence', name: 'javax.persistence-api', version: '2.2'
 
 }
 

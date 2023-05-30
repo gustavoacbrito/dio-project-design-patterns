@@ -18,6 +18,7 @@ import org.springframework.cloud.openfeign.EnableFeignClients;
  * @author GustavoBrito
  *
 */
+
 @EnableFeignClients
 @SpringBootApplication
 public class DesignPatternsApplication {
